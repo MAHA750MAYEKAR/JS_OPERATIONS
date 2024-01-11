@@ -1,0 +1,11 @@
+EXPLAIN ROLE OF OPERATORS IN JAVASCRIPT?
+ANS:In JavaScript, operators play a crucial role in performing various operations on data, such as arithmetic operations, comparison, logical operations, assignment, and more. 
+operators are fundamental building blocks of programming languages. They empower developers to perform a wide array of operations, make decisions, and manipulate data efficiently, contributing to the overall functionality and expressiveness of programming code.
+
+
+WHY THEY ARE ESSENTIAL IN PROGRAMMING?
+Operators are essential in programming for several reasons:
+1.Performing Operations:Operators enable programmers to perform a wide range of operations on variables and values
+2.Expressiveness:Operators enhance the expressiveness of programming languages. They allow concise representation of complex mathematical and logical operations, making the code more readable and easier to understand.
+3.Mathematical Calculations:Arithmetic operators are essential for performing mathematical calculations, which are common in many types of applications, ranging from scientific simulations to financial software.
+

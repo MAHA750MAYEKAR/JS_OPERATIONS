@@ -1,0 +1,24 @@
+1. Unary Operators:
+Unary operators operate on a single operand (variable or value).
+Examples of unary operators include the unary plus (+), unary minus (-), increment (++), decrement (--), and logical NOT (!).
+EXAMPLE:
+
+let a = 5;
+let b = -a;  // Unary minus operator
+let c = ++a; // Increment operator
+let d = !true; // Logical NOT operator
+
+
+2.Binary Operators:
+Binary operators operate on two operands (variables or values).
+Examples of binary operators include addition (+), subtraction (-), multiplication (*), division (/), assignment (=), equality (==), and logical AND (&&).
+
+EXAMPLE:
+
+let x = 10;
+let y = 5;
+let sum = x + y;  // Binary addition operator
+let difference = x - y;  // Binary subtraction operator
+let product = x * y;  // Binary multiplication operator
+let quotient = x / y;  // Binary division operator
+let isEqual = x === y;  // Binary equality operator
